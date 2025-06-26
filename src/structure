@@ -1,0 +1,22 @@
+shoppy-globe/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── ProductList.jsx
+│   │   ├── ProductItem.jsx
+│   │   ├── ProductDetail.jsx
+│   │   ├── Cart.jsx
+│   │   ├── CartItem.jsx
+│   │   └── NotFound.jsx
+│   ├── redux/
+│   │   ├── store.js
+│   │   ├── cartSlice.js
+│   ├── hooks/
+│   │   └── useFetchProducts.js
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── styles/
+│       └── (optional .css files per component)
