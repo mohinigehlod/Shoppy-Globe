@@ -84,8 +84,8 @@ ShoppyGlobe is a basic e-commerce application built with React. It demonstrates 
 ## 📂 Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/shoppyglobe.git
-cd shoppyglobe
+git clone https://github.com/mohinigehlod/Shoppy-Globe
+cd Shoppy-Globe
 npm install
 npm run dev
 ```
